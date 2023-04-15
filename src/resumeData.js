@@ -55,34 +55,38 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Question Answering Bert",
+        "description":"Fine-tuning BERT SQuAD with my own dataset",
+        "imgurl":"https://1.bp.blogspot.com/-ZvNeHERe3KA/YC-i1d8nBwI/AAAAAAAAP7A/XLIZB-RuMqcKH3YA6OMXt0-COuzsh2GlQCLcBGAsYHQ/s2048/kb_urdu.jpeg",
+        "projecturl":"https://github.com/chicuongdx/fine-tuned-bert-squad"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Face Recognition System",
+        "description":"Using OpenCV, FaceNet, FastAPI to build a face recognition system",
+        "imgurl":"https://media.istockphoto.com/id/1168365129/photo/authentication-by-facial-recognition-concept-biometric-security-system.jpg?b=1&s=170667a&w=0&k=20&c=mr0dYFRtq1fHMGSP7FBRJ2xJnHM79D_jzmX6_-2D0hE=",
+        "projecturl":"https://github.com/chicuongdx/faceid-wrapper"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Chat Sever",
+        "description":"Build a chat server using NodeJS, SocketIO, MySQL, Docker",  
+        "imgurl":"https://i.gadgets360cdn.com/large/Signal_chat_wallpapers_1611905506527.jpg",
+        "projecturl":"https://github.com/chicuongdx/chat-server"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Book Directory Restful API",
+        "description":"Build a Restful API using NestJS, MySQL, Docker",
+        "imgurl":"https://ejump.ro/wp-content/uploads/2016/04/Biblioteca-digitala-imagine-1.jpg",
+        "projecturl":"https://github.com/chicuongdx/books-directory-restfulapi"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"AI is the new electricity.",
+        "name":"Thomas L. Friedman"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Simplicity is prerequisite for reliability.",
+        "name":"Edsger W. Dijkstra"
       }
     ]
   }
